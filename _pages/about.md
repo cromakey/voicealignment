@@ -2,7 +2,7 @@
 layout: about
 title: Voice & Alignment
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 ---
 
