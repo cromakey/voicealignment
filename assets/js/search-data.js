@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/voicealignment/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/voicealignment/people/";
-          },
         },{id: "nav-submenus",
           title: "submenus",
           description: "",
