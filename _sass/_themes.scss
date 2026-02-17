@@ -220,3 +220,24 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+/* ---------------------------------------------
+   Heading Accent Hierarchy (Voice & Alignment)
+---------------------------------------------- */
+
+html[data-theme="dark"] h1 {
+  color: #ffffff;
+}
+
+html[data-theme="dark"] h2 {
+  color: #60a5fa;
+}
+
+html[data-theme="dark"] h3 {
+  color: #3b82f6;
+}
+
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: #94a3b8;
+}
