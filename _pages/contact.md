@@ -6,8 +6,8 @@ nav: true
 nav_order: 5
 ---
 
-For academic contact or research collaboration:
+For academic contact and research collaboration:
 
-your.email@domain.com
+- **Email:** your.email@domain.com
 
-This website describes an academic research project and does not provide consultancy services.
+This website describes an academic doctoral research project.
