@@ -9,18 +9,19 @@
   --global-bg-color: #{v.$white-color};
   --global-code-bg-color: #{v.$code-bg-color-light};
 
-  /* Sofisticação com azuis (light) */
+  /* Light: texto mais “journal-like” + acento magenta/lilás subtil */
   --global-text-color: #0b1220;
   --global-text-color-light: #334155;
-  --global-theme-color: #2563eb;
-  --global-hover-color: #1e40af;
 
+  /* Accent (light) — magenta/lilás académico */
+  --global-theme-color: #a21caf; /* fuchsia-700 */
+  --global-hover-color: #86198f; /* fuchsia-800 */
   --global-hover-text-color: #{v.$white-color};
 
-  /* Footer mais institucional (coerente com o dark) */
+  /* Footer institucional (coerente com dark) */
   --global-footer-bg-color: #0f172a;
   --global-footer-text-color: #e2e8f0;
-  --global-footer-link-color: #60a5fa;
+  --global-footer-link-color: #93c5fd;
 
   --global-distill-app-color: #{v.$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
@@ -83,21 +84,21 @@
 html[data-theme="dark"] {
   color-scheme: dark;
 
-  /* Deep conceptual blue (dark) */
+  /* Dark: deep conceptual blue */
   --global-bg-color: #0f172a;
   --global-code-bg-color: #{v.$code-bg-color-dark};
   --global-text-color: #e2e8f0;
   --global-text-color-light: #94a3b8;
 
-  /* Acentos azuis (sofisticados, não agressivos) */
-  --global-theme-color: #60a5fa;
-  --global-hover-color: #2563eb;
+  /* Accent (dark) — mais claro para legibilidade */
+  --global-theme-color: #93c5fd; /* blue-300 */
+  --global-hover-color: #60a5fa; /* blue-400 */
   --global-hover-text-color: #{v.$white-color};
 
-  /* Footer e cards coerentes com o fundo */
+  /* Footer e cards coerentes */
   --global-footer-bg-color: #111c33;
   --global-footer-text-color: #e2e8f0;
-  --global-footer-link-color: #60a5fa;
+  --global-footer-link-color: #93c5fd;
 
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #23304a;
@@ -220,24 +221,63 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
 /* ---------------------------------------------
    Heading Accent Hierarchy (Voice & Alignment)
 ---------------------------------------------- */
 
+/* Dark headings: acento azul (legível) */
 html[data-theme="dark"] h1 {
   color: #ffffff;
 }
 
 html[data-theme="dark"] h2 {
-  color: #60a5fa;
+  color: #93c5fd; /* principal */
 }
 
 html[data-theme="dark"] h3 {
-  color: #3b82f6;
+  color: #60a5fa; /* secundário */
 }
 
 html[data-theme="dark"] h4,
 html[data-theme="dark"] h5,
 html[data-theme="dark"] h6 {
-  color: #94a3b8;
+  color: #cbd5e1; /* neutro claro */
+}
+
+/* Dark links: seguir o acento (mais “Beatriz-like”) */
+html[data-theme="dark"] a {
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] a:hover {
+  color: #60a5fa;
+}
+
+/* Light headings: magenta/lilás discreto */
+:root h1 {
+  color: #0b1220;
+}
+
+:root h2 {
+  color: #a21caf; /* fuchsia */
+}
+
+:root h3 {
+  color: #7c3aed; /* violet */
+}
+
+:root h4,
+:root h5,
+:root h6 {
+  color: #475569; /* slate */
+}
+
+/* Light links: seguir o acento */
+:root a {
+  color: #a21caf;
+}
+
+:root a:hover {
+  color: #86198f;
 }
