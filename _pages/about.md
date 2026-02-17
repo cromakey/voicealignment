@@ -6,7 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-# Voice & Alignment  
 ### Research Program on Strategic Sensemaking and Perceived Alignment
 
 A research program examining how voice processes and interpretative dynamics shape perceived strategic alignment in contemporary organizations.
