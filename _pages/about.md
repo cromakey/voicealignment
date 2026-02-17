@@ -1,40 +1,77 @@
 ---
-layout: about
+layout: page
 title: Voice & Alignment
 permalink: /
-nav: false
+nav: true
 nav_order: 1
 ---
 
-## Doctoral Research Project
+# Voice & Alignment  
+### Research Program on Strategic Sensemaking and Perceived Alignment
 
-**Investigating Voice, Perceived Alignment and Strategic Decision-Making in Contemporary Organizations**
+A research program examining how voice processes and interpretative dynamics shape perceived strategic alignment in contemporary organizations.
 
-This website presents an ongoing doctoral research project focused on how organizational members interpret strategic decisions, how perceived alignment emerges, and how voice dynamics shape decision processes.
+---
 
-The project examines alignment as a perceptual and interpretative construct rather than a purely structural outcome.
+## Research Focus
 
-Use the navigation menu to explore the conceptual framework, research design, and future outputs.
+This research program investigates how organizational members interpret strategic decisions, how perceived alignment emerges, and how voice dynamics influence collective sensemaking.
 
-## Research questions
+Rather than conceptualizing alignment as a structural or formal outcome, the program treats alignment as a perceptual and interpretative construct shaped by communication processes, participation structures, and decision architectures.
 
-- How do organizational members construct and update **perceptions of strategic alignment** in decision contexts?
-- Under which conditions does **voice** contribute to alignment versus surface agreement?
-- How does **organizational certainty/uncertainty** shape voice dynamics around strategic decisions?
+The central premise is that strategic coherence is not simply implemented — it is interpreted, negotiated, and socially constructed.
 
-## Conceptual anchors
+---
 
-- Alignment is treated as a **perceptual and interpretative construct**, not merely a structural outcome.
-- Voice is approached as a **dynamic process** (expression, reception, sensemaking, and consequences).
-- Strategic decisions are analysed as **socially embedded events** occurring under ambiguity, power, and competing interpretations.
-- The project explicitly distinguishes **alignment** from **apparent/illusory consensus**.
-- The focus is on contemporary organizational contexts where complexity and change are persistent.
+## Core Research Questions
 
-## Collaboration with participating organizations
+- How does voice influence perceived strategic alignment?
+- Under what conditions does apparent consensus conceal interpretative divergence?
+- How do participation mechanisms shape the interpretation of strategic decisions?
+- How do hybrid and digitally mediated contexts reshape alignment dynamics?
+- When does perceived alignment reflect genuine convergence versus pseudo-consensus?
 
-Organizations participating in the research can expect:
+---
 
-- A clear participation protocol and minimal operational burden.
-- Strict confidentiality and reporting at an **aggregated level**.
-- A concise feedback document summarizing **patterns and insights** relevant to decision processes and alignment perceptions.
-- No commercial services are offered through this website; this is an academic research project.
+## Conceptual Contribution
+
+The program develops a distinction between:
+
+- **Perceived Strategic Alignment**
+- **Pseudo-Consensus**
+- **Illusory Agreement**
+
+By differentiating these constructs, the research aims to clarify how organizations maintain the appearance of coherence while underlying interpretations may diverge.
+
+This distinction contributes to the literature on organizational sensemaking, participation in decision-making, and voice behavior.
+
+---
+
+## Methodological Architecture
+
+The program adopts a multi-method design combining:
+
+- Quantitative modelling and moderation analysis  
+- Perceptual measurement of alignment constructs  
+- Qualitative inquiry into interpretative processes  
+- Cross-level analysis of strategic communication  
+
+This integrated approach allows the examination of both structural decision processes and their perceptual consequences.
+
+---
+
+## Organizational Engagement
+
+The research collaborates with participating organizations to examine real strategic processes and their interpretative dynamics.
+
+Engagement with organizations serves two purposes:
+
+1. Advancing theoretical clarity regarding alignment and voice.
+2. Supporting evidence-based reflection on communication, participation, and strategic coherence.
+
+---
+
+## Status
+
+Ongoing doctoral research project in Organizational Psychology.
+
