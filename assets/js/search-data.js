@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/voicealignment/";
     },
-  },{id: "nav-research",
+  },{id: "nav-voice-amp-alignment",
+          title: "Voice &amp; Alignment",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/voicealignment/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
