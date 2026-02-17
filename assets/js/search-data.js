@@ -3,25 +3,18 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-voice-alignment",
+    title: "Voice & Alignment",
     section: "Navigation",
     handler: () => {
       window.location.href = "/voicealignment/";
     },
-  },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+  },{id: "nav-voice-amp-alignment",
+          title: "Voice &amp; Alignment",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/voicealignment/repositories/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/voicealignment/teaching/";
+            window.location.href = "/voicealignment/";
           },
         },{id: "nav-submenus",
           title: "submenus",
