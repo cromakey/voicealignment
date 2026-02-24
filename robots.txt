@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cromakey.github.io/voicealignment/sitemap.xml
+Sitemap: https://voice-lab.org/sitemap.xml
